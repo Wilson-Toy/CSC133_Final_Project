@@ -1,0 +1,5 @@
+Art/spritesheet.png*spritesheet
+Art/rooms/frontroom.png*front_room
+Art/rooms/studyroom.png*study_room
+Art/rooms/dungeon.png*dungeon
+Art/rooms/castle.png*castle

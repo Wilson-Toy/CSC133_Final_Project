@@ -1,0 +1,43 @@
+#command: x, y, x2, y2, subImage index, hover label, subImage ghover index
+
+#Title
+rect: 500, 400, 800, 500, 129, Start a New Game, 132
+rect: 500, 550, 800, 650, 120, Load Sava Data, 123
+
+#Navigation
+rect: 50, 300, 150, 371, 108, Left Arrow, 111
+rect: 1110, 300, 1210, 371, 135, Right Arrow, 138
+
+#Items
+rect: 325, 555, 381, 695, 180, Torch, 183
+rect: 445, 555, 557, 695, 153, Saltpeter, 156
+rect: 615, 555, 688, 695, 33, Cup of Water, 36
+rect: 725, 555, 865, 695, 15, Cell Key, 18
+rect: 875, 550, 1015, 690, 78, Front Key, 91
+
+#Front Room
+rect: 725, 293, 825, 521, 87, Justine Enyart Contessa, 90
+rect: 500, 220, 699, 520, 66, Front Door, 69
+rect: 1000, 420, 1100, 500, 192, Vault, 195
+rect: 1038, 440, 1063, 465, 9, Cell Key, 12
+
+#Dungeon
+rect: 205, 60, 625, 520, 114, Cell, 117
+rect: 652, 50, 1040, 520, 141, Cell, 144
+rect: 1100, 100, 1150, 220, 186, Torch Holder, 189
+rect: 550, 140, 600, 240, 174, Torch, 177
+rect: 1038, 440, 1063, 465, 72, Front Key, 75
+
+#Study Room
+rect: 604, 52, 764, 209, 21, Clock, 24
+rect: 188, 67, 540, 520, 3, Bookshelf, 6
+rect: 630, 329, 1086, 520, 39, Desk, 42
+rect: 810, 40, 1060, 200, 162, Chemical Storage, 165
+rect: 950, 279, 990, 329, 147, Saltpeter, 150
+rect: 740, 275, 770, 332, 27, Cup of Water, 30
+
+#saveicon
+rect: 0, 0, 66, 66, 159, Save, 159
+
+#hud
+rect: 270, 550, 905, 700, 84, HUD, 83

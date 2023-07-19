@@ -1,0 +1,214 @@
+#command: name, x1, y1, width, height
+
+#bookshelf
+subImage: bookshelf, 1, 1, 352, 453
+
+#bookshelf_2
+subImage: bookshelf_2, 355, 1, 352, 453
+
+#cellKey
+subImage: cellKey, 709, 1, 25, 25
+
+#cellKey_2
+subImage: cellKey_2, 736, 1, 25, 25
+
+#cellKey_big
+subImage: Cell Key, 763, 1, 140, 140
+
+#cellKey_big_2
+subImage: cellKey_big_2, 905, 1, 140, 140
+
+#clock
+subImage: clock, 1048, 1, 160, 157
+
+#clock_2
+subImage: clock_2, 1210, 1, 160, 157
+
+#cup
+subImage: cup, 1371, 1, 30, 58
+
+#cup_2
+subImage: cup_2, 1403, 1, 30, 58
+
+#cup_big
+subImage: Cup of Water, 1435, 1, 73, 140
+
+#cup_big_2
+subImage: cup_big_2, 1510, 1, 73, 140
+
+#desk
+subImage: desk, 1371, 143, 456, 191
+
+#desk_2
+subImage: desk_2, 709, 336, 456, 191
+
+#dialogue_name
+subImage: dialogue_name, 1585, 1, 100, 25
+
+#dialogue_box
+subImage: dialogue_box, 1, 529, 1280, 100
+
+#fire1
+subImage: fire1, 1687, 1, 1, 1
+
+#fire2
+subImage: fire2, 1690, 1, 2, 2
+
+#fire3
+subImage: fire3, 1694, 1, 3, 3
+
+#fire4
+subImage: fire4, 1699, 1, 4, 4
+
+#fire5
+subImage: fire5, 1705, 1, 5, 5
+
+#front_door
+subImage: front_door, 1471, 336, 200, 300
+
+#front_door_2
+subImage: front_door_2, 1673, 336, 200, 300
+
+#frontKey
+subImage: frontKey, 1712, 1, 25, 25
+
+#frontKey_2
+subImage: frontKey_2, 1739, 1, 25, 25
+
+#frontKey_big
+subImage: Front Key, 1167, 336, 150, 150
+
+#frontKey_big_2
+subImage: frontKey_big_2, 1319, 336, 150, 150
+
+#hud
+subImage: hud, 1, 631, 755, 150
+
+#justine
+subImage: justine, 758, 638, 100, 228
+
+#justine_2
+subImage: justine_2, 860, 638, 100, 228
+
+#justine_big
+subImage: justine_big, 1064, 638, 300, 684
+
+#justine_amused
+subImage: justine_amused, 962, 638, 100, 228
+
+#justine_big_amused
+subImage: justine_big_amused, 1366, 638, 300, 684
+
+#justine_serious
+subImage: justine_serious, 1668, 687, 100, 228
+
+#justine_big_serious
+subImage: justine_big_serious, 1875, 1, 300, 684
+
+#leftArrow
+subImage: leftArrow, 1766, 1, 100, 71
+
+#leftArrow_2
+subImage: leftArrow_2, 1770, 687, 100, 71
+
+#leftCell
+subImage: leftCell, 1, 918, 420, 460
+
+#leftCell_2
+subImage: leftCell_2, 423, 918, 420, 460
+
+#load_game_button
+subImage: load_game_button, 1872, 687, 300, 100
+
+#load_game_button_2
+subImage: load_game_button_2, 1, 789, 300, 100
+
+#my_cursor
+subImage: my_cursor, 303, 789, 32, 32
+
+#new_game_button
+subImage: new_game_button, 337, 789, 300, 100
+
+#new_game_button_2
+subImage: new_game_button_2, 1770, 789, 300, 100
+
+#rightArrow
+subImage: rightArrow, 639, 789, 100, 71
+
+#rightArrow_2
+subImage: rightArrow_2, 2072, 789, 100, 71
+
+#rightCell
+subImage: rightCell, 1772, 893, 394, 470
+
+#rightCell_2
+subImage: rightCell_2, 847, 1365, 394, 470
+
+#saltpeter
+subImage: saltpeter, 639, 862, 40, 50
+
+#saltpeter_2
+subImage: saltpeter_2, 681, 862, 40, 50
+
+#saltpeter_big
+subImage: Saltpeter, 1241, 1363, 112, 140
+
+#saltpeter_big_2
+subImage: saltpeter_big_2, 1355, 1363, 112, 140
+
+#saveicon
+subImage: saveicon, 1472, 1366, 60, 60
+
+#storage
+subImage: storage, 1537, 1363, 250, 160
+
+#storage_2
+subImage: storage_2, 1789, 1363, 250, 160
+
+#title_box
+subImage: title_box, 1, 1835, 1280, 363
+
+#title_card
+subImage: title_card, 1304, 1535, 635, 366
+
+#torch
+subImage: torch, 2041, 1363, 50, 125
+
+#torch_2
+subImage: torch_2, 53, 1490, 50, 125
+
+#torch_big
+subImage: Torch, 105, 1490, 58, 140
+
+#torch_big_2
+subImage: torch_big_2, 163, 1490, 50, 125
+
+#torchHolder
+subImage: torchHolder, 2093, 1363, 50, 125
+
+#torchHolder_2
+subImage: torchHolder_2, 1, 1490, 50, 125
+
+#vault
+subImage: vault, 215, 1490, 100, 80
+
+#vault_2
+subImage: vault_2, 317, 1490, 100, 80
+
+#rat_1
+subImage: rat_1, 424, 1489, 64, 32
+
+#rat_2
+subImage: rat_2, 491, 1489, 64, 32
+
+#rat_3
+subImage: rat_3, 558, 1489, 64, 32
+
+#rat_4
+subImage: rat_4, 624, 1489, 64, 32
+
+#rat_5
+subImage: rat_5, 698, 1489, 64, 32
+
+#arne
+subImage: rat_5, 1940, 1535, 300, 680

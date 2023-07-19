@@ -1,0 +1,4 @@
+sprite: 0, 0, castle
+sprite: 0, 0, front_room
+sprite: 0, 0, dungeon
+sprite: 0, 0, study_room

@@ -1,0 +1,43 @@
+Rooms:
+Front Room
+Dungeon
+Study Room
+
+Goal: Leave the castle from the front room door.
+We need the key to unlock the front door.
+
+Collectibles:
+Torch, cellKey, Saltpeter, Cup, frontKey
+
+Start:
+Go to Study Room.
+Open chemical storage.
+Put saltpeter into inventory.
+Put cup into inventory.
+
+Go to Dungeon.
+Put lit torch into inventory.
+
+Go to Study Room.
+Talk to Justine.
+Choose 'Hide a message.'
+Select the saltpeter and click the bowl.
+Select the cup and click the bowl.
+Select the torch and click the paper.
+Select the clock.
+
+Go to Front Room.
+Select the vault.
+Put cellKeys into inventory.
+
+Go to Dungeon.
+Select the cellKey and click the left cell.
+Choose 'I'm ready.'
+
+Go to Front Room.
+Select the front door key and click the front door.
+
+The game is won.
+
+Event System:
+1: If New Game is clicked, open background 1, and display dialogue 0-34.

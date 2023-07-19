@@ -1,0 +1,341 @@
+# Beginning
+dialogue: Narrator, You will be playing as an archnoble knight named Claude from the prosperous country of Libertion Land.
+dialogue: Narrator, Tragedy struck Liberation Land when the demon lord of the dark continent kidnapped the nation's princess.
+dialogue: Narrator, The goal here was to gain a huge advantage in political negotiations by seizing a member of the royal family.
+dialogue: Narrator, The king was naturally quite furious that he could not protect his daughter from the evil beings of foreign land.
+dialogue: Narrator, Claude was selected to rescue the princess by royal decree.
+dialogue: Narrator, No one was more fitting for the role since he excelled at gathering information and avoiding unnecessary conflict.
+dialogue: Narrator, Crossing the dark continent was an arduous journey for the young man.
+dialogue: Narrator, Every second he spent slowing down meant more suffering for his lady.
+dialogue: Narrator, Claude managed to infiltrate the lord's castle without garnering much attention.
+dialogue: Narrator, The interior defenses were surprisingly light...or perhaps his evasive nature was simply in a league of its own.
+dialogue: Narrator, He found the room the princess was being held in and released her shackles.
+dialogue: Narrator, Escaping the facility should not be as difficult compared to entering--or so he thought.
+dialogue: Narrator, Sneaking inside was fairly simple--but the dark knights soon caught wind of the princess' absence.
+dialogue: Narrator, All the knights in the castle went on high alert and headed towards the area where she was detained.
+dialogue: Narrator, Claude is long gone from that side of the castle...but the doors leading out have been locked.
+dialogue: Narrator, He deems that the security is still fairly simple to figure out.
+dialogue: Narrator, The current goal is to escape from the dark lord's castle using what is available to Claude.
+dialogue: Narrator, A brief moment of reprieve later...
+dialogue: Claude, I believe we have lost the guards for the time being., 93
+dialogue: Claude, More importantly...are you alright milady?
+dialogue: Justine, Yes I am fine., 99
+dialogue: Justine, They did not inflict any physical harm on me during my stay.
+dialogue: Justine, Since I was imprisoned for quite some time...I am a bit familiar with the knights' patrols.
+dialogue: Claude, As expected of you milady.  Your intellect is as impressive as ever.
+dialogue: Justine, I merely overheard the guards outside of my room speak about their shifts., 93
+dialogue: Justine, They do not seem to think of me as a threat whatsoever.
+dialogue: Claude, I would be surprised if they did.  I assume that you have also thought about what can get us out of here.
+dialogue: Justine, Yes.  There are two other rooms nearby that have as much security as this one., 105
+dialogue: Claude, I see.  So basically none.
+dialogue: Justine, The guards that were normally stationed in the adjacent rooms have walked over to my detainment origin.
+dialogue: Claude, Losing a vital political pawn must have riled them up.
+dialogue: Claude, Fortunately they are on the other side of the castle.  I would like to keep my distance from them if possible.
+dialogue: Justine, Indeed., 93
+dialogue: Claude, In any case...we should focus our efforts on escaping this place.
+dialogue: Justine, Very well.  I will provide support for you whenever you need it., 99
+
+# Selecting the front_door
+dialogue: Narrator, The door is locked.
+dialogue: Justine, I do not believe that this door will falter no matter how much we apply brute force., 105
+dialogue: Justine, Our time is better spent finding a way to unlock the door.
+dialogue: Claude, You're right.  Let's keep looking.
+
+# Selecting the vault
+dialogue: Justine, This vault stands out among the rest of the castle aesthetics., 105
+dialogue: Claude, Agreed.  There must be something important stashed inside of it.
+dialogue: Justine, Like a door key that is conveniently stored next to the door that it is paired with., 93
+dialogue: Justine, ...or a trove of gold that is befitting of my status as princess., 99
+dialogue: Claude, Both options sound promising--though I would prefer the former to be true.
+dialogue: Justine, I was merely speaking in jest.  No really I'm serious., 105
+
+# Selecting Justine in front_room
+dialogue: Claude, Sorry if I'm slow on the uptake...but where should we go to find the front door key?, 93
+dialogue: Justine, Well--the dungeon area is in the room on the right.
+dialogue: Justine, I do not think that there will be many useful items--but it can't hurt to check.
+dialogue: Justine, On the left is a study room of sorts.
+dialogue: Justine, That is where the scholars are taught in history and magic., 105
+dialogue: Claude, Hmm the study room sounds very promising--though we do have some time to think about it.
+dialogue: Justine, I will stand by your side in case you need me., 99
+
+# Selecting the left cell
+dialogue: Narrator, The faint groaning of a person can be heard from within the cell., 105
+dialogue: Claude, How terrible...this man appears to have suffered from injuries and hunger.
+dialogue: Claude, I cannot say for sure since he is facing away from us--but some of the wounds appear to be pretty recent.
+dialogue: Claude, The guards were likely trying to inflict as much pain as possible.
+dialogue: Justine, He looks like a man from the kingdom--though I do not recognize him., 105
+dialogue: Claude, I do not know what he did to be punished like this...but my pride as a knight cannot stand this.
+dialogue: Justine, ...or as a human being.  This may sound like wishful thinking...but I would like to save this man if we have the time.
+dialogue: Claude, I am with you emotionally.  We will see if a cell key can be found within the proximity.
+
+# Selecting the right cell
+dialogue: Narrator, A foul odor permeates your senses., 105
+dialogue: Claude, I presume that this smell is from the waste of prisoners.
+dialogue: Claude, The living conditions are unpleasant compared to the cells back at home.
+dialogue: Justine, That is because the kingdom avoids inhumane treatment whenever possible., 105
+dialogue: Justine, The huge bloodstains and piles of filth in the corner of the cell are extremely telling.
+dialogue: Justine, The guards do not care about their captives in the slightest.
+dialogue: Claude, This place leaves a bad taste in my mouth.  Let us step back before we delve further into negativity.
+
+# Selecting the torchHolder
+dialogue: Narrator, A torch is burning faintly on the wall., 93
+dialogue: Claude, When I look at that flame very closely--I see a burning passion.
+dialogue: Claude, Specifically...I'm reminded of how intense your father was when he found out about your absence.
+dialogue: Justine, It is relieving to hear that my father cares so much about me., 99
+dialogue: Claude, He was angry when the knight's order refused to let him storm into the dark continent.
+dialogue: Claude, As expected of a king...his strength was immensely difficult to hold back.
+dialogue: Justine, Haha...I never saw that side of him and neither did my mother., 93
+dialogue: Claude, When I had a sparring match with him--I thought that his power was unreal.
+dialogue: Claude, ...and the way he fights is so merciless.  I'm glad that he and I are fighting on the same side.
+dialogue: Justine, That sounds very traumatic.  I will be sure to tell my father about this., 99
+dialogue: Claude, No--please don't!
+dialogue: Justine, Well if I can't snitch on you...I will just take what reminds you of my father.
+dialogue: Narrator, You acquired a torch.
+
+# Selecting the bookshelf
+dialogue: Justine, Look Claude--it's the book 'Royal Knight Stories'!, 99
+dialogue: Justine, You loved this book during our first year in the Royal Academy.
+dialogue: Claude, That brings back many good memories...and an endless stream of bad ones.
+dialogue: Justine, The students loved to make fun of your overflowing sense of honor.
+dialogue: Justine, Even the teachers thought about stepping in...though they doted on you too.
+dialogue: Claude, Please stop before I get embarassed even more.
+dialogue: Justine, As you wish., 93
+dialogue: Claude, Anyway...I'm surprised that the demon king's castle has a book about human knighthood.
+dialogue: Claude, As far as I can tell...the demons have little to no interest in morality.
+dialogue: Justine, Claude...you are assuming the demons' interests far too broadly., 105
+dialogue: Justine, The demon king's family and those in the castle have values that differ greatly from our own.
+dialogue: Justine, However--the demons in the lower cities are generally caring people.
+dialogue: Justine, They are bound by the restrictions of their government--which are very tight.
+dialogue: Justine, I would know since I was lost in the demon continent a long time ago., 93
+dialogue: Claude, I see.  I was not aware of this.
+dialogue: Claude, I will not press on the matter of your childhood as that would likely take ages.
+dialogue: Claude, While I did stop by a few inns on the way to the castle...my attention was not focused on the community.
+dialogue: Claude, Who's to say that the demons were conspiring against you by putting up a facade?
+dialogue: Claude, Even if they are as good-natured as you say...they could be following the king's orders on the basis of gaining your trust.
+dialogue: Claude, We could have a prosperous future for a time--but get backstabbed without warning.
+dialogue: Claude, A considerable number of people have the same skepticism as I do.
+dialogue: Justine, I cannot prove beyond a shadow of a doubt that the demon population is as caring as humans., 105
+dialogue: Justine, Consider this.  If my father was always a scumbag who treated his people with just as much respect as insects...
+dialogue: Justine, Do you think that you would grow up to be as righteous as you are today?
+dialogue: Claude, Hmm...you have a point.  The value of a country does not necessarily correlate to its people.
+dialogue: Claude, What we know about Liberation Land is founded on the freedom that is bestowed on to us by the king., 93
+dialogue: Claude, Foriegners have a positive opinion of us since we are a thriving nation full of caring people and industrial breakthroughs.
+dialogue: Justine, On the other hand...all we know about the demon continent is the king's blatant disrespct towards humans., 105
+dialogue: Justine, The circumstances of our homelands could not be any different.
+dialogue: Claude, As expected of you milady.  I cannot hold a candle to your wisdom.
+dialogue: Justine, I appreciate the compliment--but I would suggest you practice your noble communication., 93
+dialogue: Justine, I do not want to be considered old by someone who is older than I., 99
+dialogue: Claude, My apologies.  Though I do think that you have changed my perspective on the people of this land by a bit.
+dialogue: Justine, I just wanted you to be more informed in your opinions.  Now let us continue our search., 93
+
+# Selecting the clock
+dialogue: Claude, I believe that the demon continent is 6 hours ahead of the kingdom in terms of time., 93
+dialogue: Claude, Fortunately...I have adapted my sleeping schedule to this time zone during my journey.
+dialogue: Justine, As have I--though my mind has wandered a lot for the past couple of days., 105
+dialogue: Claude, You seem troubled.  May I ask what it is that you were pondering?
+dialogue: Justine, Just an event that happened 8 years ago.
+dialogue: Justine, When I was lost on the demon continent...I made a friend.
+dialogue: Claude, Oh?  I would certainly like to hear more about this.
+dialogue: Justine, He is a demon from the lower city...but his values differed greatly from the demons that we know from the castle.
+dialogue: Justine, I mistakenly labeled him as a cruel individual and ran away from him.
+dialogue: Justine, When I fell and bruised my knee...he actually seemed to care about me., 93
+dialogue: Justine, From there--I recovered in his home for two weeks.
+dialogue: Claude, He seems to be the polar opposite of what the general kingdom populace describe the race.
+dialogue: Claude, So this individual is presumably still around?
+dialogue: Justine, Yes...very much so.
+dialogue: Justine, He is the guard that watched over me during my stay in the castle., 105
+dialogue: Claude, What?!
+dialogue: Claude, But from what you've been saying...I would not have imagined him serving people who go against his values.
+dialogue: Justine, I have the same thoughts as you do.
+dialogue: Justine, He agonized to take a position that protects the people that he hates.
+dialogue: Justine, Though his explanation left me feeling sympathy for him.
+dialogue: Claude, How unfortunate.  If we run into him alone...I assume that he will ignore us.
+dialogue: Justine, That is what he told me.  We shall see if that scenario plays out., 93
+
+#Selecting the chemical storage
+dialogue: Claude, Why am I not surprised that a malicious government would have malicious chemicals that are this accessible?, 93
+dialogue: Justine, If you're wondering about their safety--demons have much stronger immune systems than humans do.
+dialogue: Justine, In the case of a chemical accident...not much would really happen to them.
+dialogue: Justine, For them--touching poison is like us touching water.
+dialogue: Claude, That makes sense.  Though I do not feel comfortable seeing these chemicals strewn about so carelessly.
+dialogue: Justine, Really now?  Allow me to take a look., 93
+dialogue: Narrator, Justine examines the chemical storage closely.
+dialogue: Justine, How careless of them..
+dialogue: Justine, They left a half used bottle of saltpeter lying around., 105
+dialogue: Justine, Some of it is sprinkled in the storage and on the desk.
+dialogue: Claude, That appears to be the case.  Why the sudden interest in these chemicals though?
+dialogue: Justine, I am not sure.  Something about this room doesn't sit right with me., 93
+dialogue: Justine, I would like to keep this on hand--just in case.
+dialogue: Justine, ...and no--I'm not taking this purely for fun., 105
+dialogue: Claude, Ugh...you were always the odd ball in class who took literally anything interesting out of curiosity.
+dialogue: Justine, Well I did take the scholar course for a reason., 93
+dialogue: Claude, Alright I trust you.  There must be something that only you could have picked up on.
+dialogue: Justine, I thank you very much., 99
+dialogue: Narrator, You have acquired saltpeter.
+
+# Selecting the cup
+dialogue: Claude, Is it just me...or does the water in this cup seems to be slightly discolored?, 93
+dialogue: Justine, I believe you are right., 105
+dialogue: Justine, Combine this with the fact that there is a a chemical storage just above us.
+dialogue: Claude, It's too unnatural.  Someone must have been in here recently to achieve something.
+dialogue: Justine, My guess would be that they performed an experiment of sorts.
+dialogue: Justine, There is likely other evidence here that should lead to what this person was up to., 93
+dialogue: Justine, We should keep this cup of water in case we need it.
+dialogue: Narrator, You have acquired a cup of water.
+
+# Selecting the desk
+dialogue: Claude, That is a nice looking desk., 93
+dialogue: Justine, Agreed.  The wood looks fairly high quality.
+dialogue: Claude, I do not see any weird markings or indications that there is something suspicious.
+dialogue: Justine, The desk itself looks normal...though I would check the things above the desk if you have not done so already., 105
+
+#Already checked all of the above
+dialogue: Claude, I already checked this., 93
+dialogue: Justine, Yes...let's move on.
+
+# Selecting Justine after talking to her once
+dialogue: Justine, Let us talk in this room once you have looked through everything in the area., 93
+
+# Selecting Justine after selecting everything
+dialogue: Claude, I believe that we have looked through everything in the area., 93
+dialogue: Justine, Excellent.  I shall now go over what I believe happened before we came here.
+dialogue: Justine, I found a piece of paper stuck to the top of the desk in the study room.
+dialogue: Justine, It is also likely that the saltpeter and the cup of water was used during an experiment., 105
+dialogue: Justine, This leads me to think that someone used those 2 things on the paper.
+dialogue: Claude, That is sound logic--but why would our mystery person do that?
+dialogue: Justine, I have an idea that will require testing to prove.
+dialogue: Justine, Have you heard of invisible ink when you were a child?
+dialogue: Claude, Sounds familiar...though I never delved any further in the topic.
+dialogue: Justine, Then I should tell you that there is ink that we cannot see with our eyes.
+dialogue: Justine, ...and the materials to create such ink is in our possession.
+dialogue: Claude, That is quite convenient.  So what is the process?
+dialogue: Justine, Creating the ink is a simple process., 93
+dialogue: Justine, One must mix the saltpeter with water using a mixer--such as a paintbrush.
+dialogue: Justine, Use that to write on a piece of thick paper.
+dialogue: Justine, Wait until the ink dries so that you cannot easily see the ink.
+dialogue: Claude, I see.  That would certainly hide the message from lingering eyes.
+dialogue: Justine, Just so you know...the ink must be burned in order to reveal the message once more.
+dialogue: Claude, Oh my...so that is why I am still holding the lit torch in my hand.
+dialogue: Justine, Let us recreate the process at the desk in the study room.
+
+# Selecting the desk to test Justine's theory
+dialogue: Narrator, Claude took a piece of paper from the bookshelf and performed the experiment just as Justine described.
+dialogue: Narrator, As it turned out... Justine's theory was spot on.
+dialogue: Narrator, After burning the original paper that is stuck on the desk...
+dialogue: Narrator, A message was ingrained that only a being with intelligence would write.
+dialogue: Claude, The message is 'The passage of time shall lead you to your desired path.'
+dialogue: Justine, Hmph.  Am I not cool with the youngsters?, 99
+dialogue: Justine, Shower me with praise.
+dialogue: Claude, Yes yes...you are very intelligent milady.
+dialogue: Justine, Now then--the message on here is pretty clear to interpret., 93
+dialogue: Claude, Mhm.  Considering how there are very few things that this message could be referring to.
+
+# Selecting the clock after finding the message
+dialogue: Claude, The clock does not appear to be working since the hands are stuck., 93
+dialogue: Claude, As such...the time is stuck at 420.
+dialogue: Claude, This is quite an elaborate scheme to go so far as to stopping time.
+dialogue: Justine, I believe that there is only one object that we would care about in regards to numbers.
+dialogue: Claude, Ah yes.  You were having pleasant thoughts about that object.  Good hint.
+
+# Selecting the vault after getting the code from the clock
+dialogue: Claude, This vault accepts 3 numbers as its PIN.
+dialogue: Claude, Since the clock is our strongest evidence--I will enter '420'.
+dialogue: Narrator, Claude entered the code...which unlocked the vault.
+dialogue: Justine, Hmm...this is certainly a key.  Though I believe that it will not fit the front door lock.
+dialogue: Claude, Judging by the coloring-- I can think of a place where this key would be useful.
+dialogue: Justine, I presume that we are going to be good people after all.
+
+# Selecting the left cell after getting the cell key
+dialogue: Narrator, Claude inserted the key into the cell keyhole and turned it.
+dialogue: Claude, As expected...this is a cell key that fits with this lock., 93
+dialogue: Claude, I do not know why this key is held in such high regard...
+dialogue: Claude, Though the person inside may have an answer for us.
+dialogue: Narrator, The injured man inside the cell nodded his head towards Claude., 213
+dialogue: Narrator, He cackled while slowly rising to his feet...
+dialogue: Narrator, ...and ran straight towards Claude.
+dialogue: Justine, Be careful!, 105
+dialogue: Claude, His sword?!
+dialogue: Narrator, The man brandished his blade with great speed and swung at Claude's chest.
+dialogue: Narrator, Claude barely sidestepped the attack while unsheathing his own sword.
+dialogue: Narrator, The man's movements were sharp and calculating.  Claude was often on the backfoot.
+dialogue: Narrator, After a long exchange of blows...Claude finally disarmed the man.
+dialogue: Arn, Incredible...you are quite quite talented., 213
+dialogue: Arn, If I was in peak fighting form--you would be the one groveling at my feet.
+dialogue: Claude, Well...you do appear to be injured.  I would never want to be in your state.
+dialogue: Claude, Since I am the victor--I request to hear your name.
+dialogue: Arn, Hmph very well., 213
+dialogue: Arn, I am Arn Passi.  A fallen swordsman who always seeks a challenge.
+dialogue: Claude, Did you say Passi?  The same Passi that went on a killing spree?
+dialogue: Justine, Claude--this man is one of the worst serial killers in modern times.  , 105
+dialogue: Justine, He was the one who separated me from my family long ago...
+dialogue: Justine, ...after he slaughtered over 100 demon civilians.
+dialogue: Claude, That is shocking.  I have heard stories about him from my knight friends.
+dialogue: Claude, Never did I think that I would meet him in the cellar of the demon king's castle.
+dialogue: Arn, Haha...I am honored that my reputation precedes me., 213
+dialogue: Claude, Now that I think about it--a dark thought has come to me.
+dialogue: Claude, Arn is the only prisoner who resides in this dungeon.
+dialogue: Claude, Signs of other people are strewn about the other cells.
+dialogue: Claude, If he is as bloodthirsty as the stories go...
+dialogue: Justine, Yes it is likely that Arn massacred all of the prisoners in the dungeon., 105
+dialogue: Justine, Since life in here is treated as that of an insect--I am not too surprised.
+dialogue: Justine, The guards were probably enjoying the spectacle immensely.
+dialogue: Arn, Princess--you are quite lucky that Claude was the one who came to your aid., 213
+dialogue: Arn, Had he been anyone else...I would be enjoying a bloodbath at this very moment.
+dialogue: Justine, That may very well be correct.  There are only so many humans who could outduel you., 105
+dialogue: Justine, Those would be my father...the knight commander...our temple's head priest... and Claude.
+dialogue: Claude, I did not know that you held me in such high regard milady.
+dialogue: Arn, Naturally I could never outperform a monster like your father in battle., 213
+dialogue: Arn, The commander is a close second.  The head priest had incredible dominion training.
+dialogue: Arn, I do not believe that Claude can best me at my peak--though he is very close.
+dialogue: Justine, I am merely speculating...though I think he has more potential than you., 93
+dialogue: Arn, Heh.  You may think as you like.  You came here for this-- am I correct?, 213
+dialogue: Narrator, Arn held out a gold key from his pocket.
+dialogue: Claude, So that was why so much effort was placed into hiding that key.
+dialogue: Claude, He was likely told to guard that key with his life or face execution.
+dialogue: Claude, Not many would be able to actually take the key from him...even in his current state.
+dialogue: Justine, To think that I wished to save you from this prison before we opened this cell., 105
+dialogue: Justine, For once--I am in agreement with the demon king in putting you here.
+dialogue: Arn, The people outside this continent love to label the demons as evil incarnate., 213
+dialogue: Arn, Heh.  They do not wish to see the world for themselves--like I have.
+dialogue: Claude, I imagine that your life leading up to this point was not great.
+dialogue: Claude, My curiousity is brimming...but we really must be going.
+dialogue: Justine, Arn...Thank you for the key.  That is the only gratitude that I can offer to you., 93
+dialogue: Arn, I would be surprised if I got anymore respect., 213
+dialogue: Narrator, Arn entered his cell once more.
+
+# Selecting the front door with the front door key
+dialogue: Narrator, The front door opens with a loud creak.
+dialogue: Claude, It is truly unfortunate that you were kidnapped by the demon king., 93
+dialogue: Claude, However--I do not think that our time in here was completely wasted.
+dialogue: Justine, We had the opportunity to learn about this land's history., 99
+dialogue: Justine, My mind has gotten some training with figuring out puzzles.
+dialogue: Justine, Though I am disappointed that we did not take all of the gold from that vault., 105
+dialogue: Claude, That would be a burden milady.  Income should not be an issue for you.
+dialogue: Justine, My dream of obtaining fashionable material things cannot be satisfied with my mind alone!
+dialogue: Claude, I would consider it if those guards behind us were less persistent.
+dialogue: Justine, You are right Claude.  Let us go home., 99
+dialogue: Narrator, The End
+
+# Selecting Justine right after she says her theory
+dialogue: Justine, Let us check the desk in the study room so we can prepare my theory., 93
+dialogue: Claude, Right milady.
+
+# Selecting Justine after working at the desk
+dialogue: Justine, The clue in the message is in regards to time., 105
+dialogue: Justine, Is there anything around here that could be related to that?
+
+# Selecting Justine after checking the clock for 4:20
+dialogue: Justine, The vault happens to be in the room where we first started., 99
+dialogue: Justine, I would still not decline an offer for you to carry all of the gold back home.
+dialogue: Claude, I cannot defy an order from royalty...
+dialogue: Claude, But even I must decline you here.
+dialogue: Justine, I am guessing that you are not popular with the ladies., 105
+
+# Selecting Justine after opening the vault for the cell door key
+dialogue: Justine, The key that we have looks old and musty., 105
+dialogue: Claude, You are correct.  Let us head to that room and use the key.
+
+# Selecting Justine after getting the front door key
+dialogue: Justine, The guards will soon be on to us., 105
+dialogue: Justine, We should exit through the front door at the earliest opportunity.
+dialogue: Claude, Right!
